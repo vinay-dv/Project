@@ -58,7 +58,7 @@
         android:paddingRight="20dp"
         android:fontFamily="@string/app_name"
         android:paddingLeft="20dp"
-        android:drawableLeft="@drawable/ic_mood_black_24dp"
+        android:drawableStart="@drawable/ic_mood_black_24dp"
         android:text="  Hey Arya,\n  Start your learning journey"
         android:textAlignment="viewStart"
         android:drawableRight="@drawable/ic_arrow_forward_black_24dp"
